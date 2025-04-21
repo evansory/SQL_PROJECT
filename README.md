@@ -148,7 +148,7 @@ Other notable tools and languages include R, Snowflake, Pandas, and Excel, refle
 📊 Top-Paying Skills Visualization
 The bar chart below illustrates the most frequently required skills for the top 10 highest-paying data analyst roles. This visualization was generated using SQL and plotted by **Power BI** based on query results.
 
-![image](https://github.com/user-attachments/assets/025f634b-7300-4eb5-b925-b52ba2b43a99)
+
 **Figure 4.1** _showing the Top Paying Jobs_
 
 #### 3. In-Demand Skills for Data Analysts
