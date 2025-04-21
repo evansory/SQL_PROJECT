@@ -20,7 +20,7 @@ HR Portfolio Using SQL and Power B I
 ### Data Analyst Job Market Insights
 This project provides a comprehensive analysis of the data job market with a specific focus on data analyst roles. It explores key trends such as the highest-paying positions, the most in-demand technical skills, and the intersection of high demand and competitive salaries. By examining these insights, the project aims to offer valuable guidance for aspiring and current data professionals seeking to align their skill sets with market needs and maximize career opportunities.
 
-🔍 SQL queries? Check them out here: project_sql folder
+🔍 SQL queries? Check them out here: `[project_sql folder](project_sql)`
 
 # Background
 This project was driven by the goal of navigating the data analyst job market more effectively. It originated from a desire to identify top-paying and in-demand skills, ultimately helping others streamline their job search and align their learning efforts with market demands.
