@@ -1,5 +1,5 @@
 # SQL_PROJECT
-HR Portfolio Using SQL and Power B I
+HR Portfolio Using SQL and Power BI
 
 ## Table of Contents
 
